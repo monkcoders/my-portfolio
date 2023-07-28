@@ -10,7 +10,6 @@ import INFO from "../data/user";
 import SEO from "../data/seo";
 
 import "./styles/about.css";
-import Works from "../components/homepage/works";
 
 const About = () => {
 	useEffect(() => {
